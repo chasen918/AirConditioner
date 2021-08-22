@@ -1,12 +1,12 @@
 {
   "name": "air-conditioner",
-  "description": "云空调，便携小空调",
+  "description": "便携小空调",
   "version": "0.1.2",
   "private": true,
   "author": {
     "url": "https://ccs.zone/",
-    "email": "guole.fun@qq.com",
-    "name": "guole"
+    "email": "2681093142@qq.com",
+    "name": "ccs.zone"
   },
   "scripts": {
     "dev": "yarn start",
